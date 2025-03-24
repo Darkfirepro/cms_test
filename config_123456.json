@@ -1,0 +1,115 @@
+{
+    "_id": "conf123456789",
+    "configId": "conf123456789",
+    "displayId": "disp987654321",
+    "name": "Weekend Racing Display",
+    "customerId": 123456,
+    "bookmaker": {
+      "_id": "book123456789",
+      "name": "Example Bookmaker",
+      "logo": "https://raw.githubusercontent.com/Darkfirepro/cms_test/main/LogoImages/logo1.jpg"
+    },
+    "active": true,
+    
+    "scheduling": {
+      "type": "meeting",
+      "meetingId": 12345,
+      "meetingName": "Sydney Races",
+      "meetingCountry": "AUS",
+      "meetingDate": "2025-03-24",
+      "discipline": "T",
+      "selectedRaces": [1, 2, 3, 4],
+      "scheduledDate": "2025-03-21T00:00:00.000Z",
+      "startTime": "08:00",
+      "endTime": "18:00",
+      "repeatDaily": false
+    },
+    
+    "brandingConfig": {
+      "imagePackageId": {
+        "_id": "img123456789",
+        "name": "Main Branding Package",
+        "images": [
+          {
+            "_id": "media123456789",
+            "name": "Logo.png",
+            "url": "https://raw.githubusercontent.com/Darkfirepro/cms_test/main/LogoImages/logo1.jpg",
+            "type": "image/png"
+          }
+        ]
+      },
+      "videoPackageId": {
+        "_id": "vid123456789",
+        "name": "Video Assets",
+        "toppers": [
+          {
+            "_id": "media123456791",
+            "name": "topper1.mp4",
+            "url": "https://raw.githubusercontent.com/Darkfirepro/cms_test/main/TopperVideos/NewTopBanner.mp4",
+            "type": "video/mp4",
+            "duration": 15
+          }
+        ],
+        "loading": {
+          "_id": "media123456792",
+          "name": "Loading1.mp4",
+          "url": "https://raw.githubusercontent.com/Darkfirepro/cms_test/main/LoadingVideos/intro2.mp4",
+          "type": "video/mp4",
+          "duration": 10
+        },
+        "ads": [
+          {
+            "_id": "media123456793",
+            "name": "Promotion1.mp4",
+            "url": "https://raw.githubusercontent.com/Darkfirepro/cms_test/main/BrandingVideos/ad.mp4",
+            "type": "video/mp4",
+            "duration": 30
+          }
+        ]
+      },
+      "colorPackageId": {
+        "_id": "col123456789",
+        "customerId": 123456,
+        "colors": [
+          {
+            "panelString": "header",
+            "label": "Header Panel",
+            "colorPanel": "#0A2240",
+            "colorText": "#FFFFFF",
+            "font": "Arial, sans-serif",
+            "imgSprite": null
+          },
+          {
+            "panelString": "runner-row",
+            "label": "Runner Row",
+            "colorPanel": "#F0F0F0",
+            "colorText": "#333333",
+            "font": "Roboto, sans-serif",
+            "imgSprite": null
+          },
+          {
+            "panelString": "odds",
+            "label": "Odds Display",
+            "colorPanel": "#E63946",
+            "colorText": "#FFFFFF",
+            "font": null,
+            "imgSprite": null
+          }
+        ]
+      }
+    },
+  
+    "configToggles": {
+      "raceRunnerDetails": true,
+      "runnerComments": true,
+      "pricing": true,
+      "speedMaps": true,
+      "fastForm": true,
+      "racePredictor": false,
+      "brandingVideo": false,
+      "tips": true
+    },
+    
+    "createdAt": "2025-03-15T10:30:00.000Z",
+    "updatedAt": "2025-03-20T08:15:22.000Z"
+  }
