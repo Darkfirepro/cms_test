@@ -32,7 +32,7 @@
         "images": [
           {
             "_id": "media123456789",
-            "name": "Logo.png",
+            "name": "Logo.jpg",
             "url": "https://raw.githubusercontent.com/Darkfirepro/cms_test/main/LogoImages/logo1.jpg",
             "type": "image/png"
           }
