@@ -13,13 +13,13 @@
     
     "scheduling": {
       "type": "meeting",
-      "meetingId": 12345,
-      "meetingName": "Sydney Races",
+      "meetingId": 396611,
+      "meetingName": "BALLARAT",
       "meetingCountry": "AUS",
       "meetingDate": "2025-03-24",
       "discipline": "T",
       "selectedRaces": [1, 2, 3, 4],
-      "scheduledDate": "2025-03-21T00:00:00.000Z",
+      "scheduledDate": "2025-03-25T00:00:00.000Z",
       "startTime": "08:00",
       "endTime": "18:00",
       "repeatDaily": false
