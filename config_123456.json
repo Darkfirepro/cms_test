@@ -13,13 +13,14 @@
     
     "scheduling": {
       "type": "meeting",
-      "meetingId": 396611,
-      "meetingName": "BALLARAT",
+      "meetingId": 396956,
+      "meetingName": "ALBANY",
       "meetingCountry": "AUS",
-      "meetingDate": "2025-03-24",
+      "meetingDate": "2025-03-27",
+      "Rsid": 361200003,
       "discipline": "T",
-      "selectedRaces": [1, 2, 3, 4],
-      "scheduledDate": "2025-03-25T00:00:00.000Z",
+      "selectedRaces": [3, 4, 5, 6],
+      "scheduledDate": "2025-03-21T00:00:00.000Z",
       "startTime": "08:00",
       "endTime": "18:00",
       "repeatDaily": false
@@ -32,7 +33,7 @@
         "images": [
           {
             "_id": "media123456789",
-            "name": "Logo.jpg",
+            "name": "Logo.png",
             "url": "https://raw.githubusercontent.com/Darkfirepro/cms_test/main/LogoImages/logo1.jpg",
             "type": "image/png"
           }
@@ -76,24 +77,21 @@
             "label": "Header Panel",
             "colorPanel": "#0A2240",
             "colorText": "#FFFFFF",
-            "font": "Arial, sans-serif",
-            "imgSprite": null
+            "font": "Arial, sans-serif"
           },
           {
             "panelString": "runner-row",
             "label": "Runner Row",
             "colorPanel": "#F0F0F0",
             "colorText": "#333333",
-            "font": "Roboto, sans-serif",
-            "imgSprite": null
+            "font": "Roboto, sans-serif"
           },
           {
             "panelString": "odds",
             "label": "Odds Display",
             "colorPanel": "#E63946",
             "colorText": "#FFFFFF",
-            "font": null,
-            "imgSprite": null
+            "font": null
           }
         ]
       }
@@ -105,8 +103,8 @@
       "pricing": true,
       "speedMaps": true,
       "fastForm": true,
-      "racePredictor": false,
-      "brandingVideo": false,
+      "racePredictor": true,
+      "brandingVideo": true,
       "tips": true
     },
     
