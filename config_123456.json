@@ -13,13 +13,13 @@
     
     "scheduling": {
       "type": "meeting",
-      "meetingId": 397157,
-      "meetingName": "MUSWELLBROOK",
+      "meetingId": 397169,
+      "meetingName": "DARWIN",
       "meetingCountry": "AUS",
       "meetingDate": "2025-03-28",
-      "Rsid": 361500304,
+      "Rsid": 361500124,
       "discipline": "T",
-      "selectedRaces": [8],
+      "selectedRaces": [3, 4, 5],
       "scheduledDate": "2025-03-21T00:00:00.000Z",
       "startTime": "08:00",
       "endTime": "18:00",
