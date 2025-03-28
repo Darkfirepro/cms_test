@@ -13,11 +13,11 @@
     
     "scheduling": {
       "type": "meeting",
-      "meetingId": 397169,
-      "meetingName": "DARWIN",
+      "meetingId": 397159,
+      "meetingName": "CRANBOURNE",
       "meetingCountry": "AUS",
       "meetingDate": "2025-03-28",
-      "Rsid": 361500124,
+      "Rsid": 361500118,
       "discipline": "T",
       "selectedRaces": [3, 4, 5],
       "scheduledDate": "2025-03-21T00:00:00.000Z",
