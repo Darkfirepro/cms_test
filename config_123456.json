@@ -13,11 +13,11 @@
     
     "scheduling": {
       "type": "meeting",
-      "meetingId": 396914,
-      "meetingName": "TOOWOOMBA",
+      "meetingId": 397164,
+      "meetingName": "WELLINGTON",
       "meetingCountry": "AUS",
       "meetingDate": "2025-03-28",
-      "Rsid": 361500427,
+      "Rsid": 361500465,
       "discipline": "T",
       "selectedRaces": [3, 4, 5, 6, 7],
       "scheduledDate": "2025-03-21T00:00:00.000Z",
