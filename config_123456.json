@@ -13,11 +13,11 @@
     
     "scheduling": {
       "type": "meeting",
-      "meetingId": 397164,
-      "meetingName": "TEST",
+      "meetingId": 397157,
+      "meetingName": "MUSWELLBROOK",
       "meetingCountry": "AUS",
       "meetingDate": "2025-03-28",
-      "Rsid": 361500465,
+      "Rsid": 361500304,
       "discipline": "T",
       "selectedRaces": [6, 7],
       "scheduledDate": "2025-03-21T00:00:00.000Z",
