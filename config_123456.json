@@ -13,13 +13,13 @@
     
     "scheduling": {
       "type": "meeting",
-      "meetingId": 397822,
-      "meetingName": "EXETER",
-      "meetingCountry": "AUS",
+      "meetingId": 397821,
+      "meetingName": "SOUTHWELL",
+      "meetingCountry": "GB",
       "meetingDate": "2025-04-02",
-      "Rsid": 363001148,
+      "Rsid": 363000635,
       "discipline": "T",
-      "selectedRaces": [2, 3, 4, 5, 6],
+      "selectedRaces": [1, 2, 3, 4, 5, 6],
       "scheduledDate": "2025-04-02T00:00:00.000Z",
       "startTime": "08:00",
       "endTime": "18:00",
