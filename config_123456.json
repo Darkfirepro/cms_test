@@ -13,13 +13,13 @@
     
     "scheduling": {
       "type": "meeting",
-      "meetingId": 398048,
-      "meetingName": "TOWNSVILLE",
+      "meetingId": 398536,
+      "meetingName": "KELSO",
       "meetingCountry": "GB",
-      "meetingDate": "2025-04-04",
-      "Rsid": 363600430,
+      "meetingDate": "2025-04-07",
+      "Rsid": 364501157,
       "discipline": "T",
-      "selectedRaces": [5, 6, 7, 8, 9],
+      "selectedRaces": [1, 2, 3, 4, 5, 6],
       "scheduledDate": "2025-04-02T00:00:00.000Z",
       "startTime": "08:00",
       "endTime": "18:00",
