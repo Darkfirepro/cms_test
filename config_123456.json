@@ -13,11 +13,11 @@
     
     "scheduling": {
       "type": "meeting",
-      "meetingId": 399627,
-      "meetingName": "ALBURY",
+      "meetingId": 399722,
+      "meetingName": "CHELTENHAM",
       "meetingCountry": "GB",
       "meetingDate": "2025-04-17",
-      "Rsid": 367500004,
+      "Rsid": 367500612,
       "discipline": "T",
       "selectedRaces": [1, 2, 3, 4, 5, 6],
       "scheduledDate": "2025-04-02T00:00:00.000Z",
